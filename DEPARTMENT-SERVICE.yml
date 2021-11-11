@@ -1,2 +1,2 @@
 welcome:
-  message: Hello from config server DEPARTMENT-SERVICE
+  message: "Hello from config server DEPARTMENT-SERVICE"
